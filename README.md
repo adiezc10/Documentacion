@@ -19,3 +19,6 @@ Extensión de Visual Studio Code  ***"Markdown PDF" de Yzane***.  La puedes busc
 https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
 
 Es por esto que tenéis creado un espacio de trabajo que podeís usar directamente si clonais el repositorio para poder modificarlo en local en la propia rama main llamado ***"Introduccion a Markdown.code-workspace"***.
+
+## Acceso al manual
+[Manual básico de Markdown](Markdown.md)
