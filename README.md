@@ -1,10 +1,10 @@
 # Manual básico de Markdown
-Este en un breve manual para acercar el lenguaje de marcado Markdown a los alumnos de primero del ciclo de desarrollo de Aplicaciones Web (DAW).
+Este es un breve manual para acercar el lenguaje de marcado Markdown a los alumnos de primero del ciclo de desarrollo de Aplicaciones Web (DAW).
 En el módulo de Entornos de Desarrollo vamos a utilizarlo para poder llevar a cabo la documentación de los proyectos realizados en Git y GitHub.
 
 Este está formado por ejemplos con el uso de los elementos básicos que podemos manejar en Markdown y que en la mayoría de los casos será suficiente para realizar la documentación de nuestros proyectos.
 
-Para llevar a cabo la realización de este mini manual he usado Visual Studio Code con la extensión de ***"Markdown all in one" de Yu Zhang***. La puedes buscar desde el propio Visual Studio Code o desde el marketplace
+Para llevar a cabo la realización de este mini manual se ha utilizado Visual Studio Code con la extensión de ***"Markdown all in one" de Yu Zhang***. La puedes buscar desde el propio Visual Studio Code o desde el marketplace
 
 https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one.
 
