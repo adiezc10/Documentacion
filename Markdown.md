@@ -347,6 +347,7 @@ Otro ejemplo
 |Entornos de desarrollo|
 ```
 Con el siguiente resultado
+
 | MODULOS DE PRIMERO |
 | ---------- |
 |Programación |
